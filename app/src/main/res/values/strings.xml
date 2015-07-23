@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">File Downloader</string>
+    <string name="action_settings">Settings</string>
+    <string name="picture_downloader">Picture Downloader</string>
+    <string name="status_idle">Status:Idle</string>
+    <string name="status_none">Status:None.</string>
+    <string name="url_picture">https://cs7053.vk.me/c540102/v540102456/9ebc/TlS353EPu6g.jpg</string>
+    <string name="download">Download</string>
+    <string name="picture">picture</string>
+    <string name="progressBar">progressBar</string>
+
+</resources>
